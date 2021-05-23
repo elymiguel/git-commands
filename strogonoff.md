@@ -1,1 +1,1 @@
-Strogonoff
+Strogonoff de Frago
