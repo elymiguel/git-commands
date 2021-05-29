@@ -22,3 +22,14 @@
 - git push origin master
 - git pull origin master
 - git clone https://github.com/elymiguel/git-commands.git
+
+### Modificar Branch
+- git checkout -b main
+
+### Logs de Commits
+- git log --online
+
+### List Branch
+- git branch --list
+### Change Branch
+- git branch -m master main
