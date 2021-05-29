@@ -23,7 +23,7 @@
 - git pull origin master
 - git clone https://github.com/elymiguel/git-commands.git
 
-### Modificar Branch
+### Criar New Branch
 - git checkout -b main
 
 ### Logs de Commits
