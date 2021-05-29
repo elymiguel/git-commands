@@ -1,2 +1,6 @@
-# git-commands
-Git Commands - Help to start with Git 
+# Git
+### Git Commands - Help to start with Git
+##### Main Commands
+##### Create SSH-KEY
+##### GPG
+ 
